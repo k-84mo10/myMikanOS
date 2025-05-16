@@ -38,8 +38,8 @@ main.o: main.cpp \
   /home/kohki_mikan/osbook/devenv/x86_64-elf/include/c++/v1/climits \
   /home/kohki_mikan/osbook/devenv/x86_64-elf/include/c++/v1/limits.h \
   /home/kohki_mikan/osbook/devenv/x86_64-elf/include/c++/v1/__split_buffer \
-  frame_buffer_config.hpp graphics.hpp mouse.hpp font.hpp console.hpp \
-  pci.hpp \
+  frame_buffer_config.hpp memory_map.hpp graphics.hpp mouse.hpp font.hpp \
+  console.hpp pci.hpp \
   /home/kohki_mikan/osbook/devenv/x86_64-elf/include/c++/v1/array \
   error.hpp logger.hpp usb/memory.hpp usb/device.hpp usb/setupdata.hpp \
   usb/endpoint.hpp usb/arraymap.hpp \
